@@ -6,6 +6,7 @@ public class ToShowForGithub : MonoBehaviour
 {
     // Start is called before the first frame update
     public string PizzaString = "Pizza";
+    public string AwesomeString = "Awesome String";
     void Start()
     {
         
